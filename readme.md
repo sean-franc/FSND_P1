@@ -11,7 +11,7 @@ This movie trailer website features 6 of my favorite movies. You can see:
 ### What's included
 ```
 readme.md
-FSND_P1/
+src/
 ├─ even_fresher_tomatoes.py
 ├─ my_favorite_movies.py
 ├─ media.py
