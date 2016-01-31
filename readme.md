@@ -19,7 +19,7 @@ src/
 
 ### Instructions
 1. If necessary, install [Python] *(tested on 2.7.11)*. 
-2. From the `/FSND_P1` directory, run `python my_favorite_movies.py ` in the command line.
+2. From the `/src` directory, run `python my_favorite_movies.py ` in the command line.
 2. The script will generate a file called `my_favorite_movies.html`, and launch the page automatically in your web browser.
 3. Hover over a movie to see a description, click to view its trailer.
 4. *Leave me amazing feedback.*
